@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Ox XChem - enabling hit-to-lead in FBDD'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Ox XChem is a two year project to enable the tools and culture needed for hit-to-lead in FBDD. Utilising the world leading X-ray fragment screening facility at Diamond (XChem) - Ox XChem aims to build three core areas. Computational tools to design follow-up compounds. Chemistry resource to make such compounds. Assays to provide rapid feedback from those compounds.

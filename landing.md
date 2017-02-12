@@ -1,120 +1,45 @@
 ---
-title: Landing
+title: Offering
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'What Ox XChem can offer.'
 image: assets/images/pic07.jpg
 nav-menu: true
+overview:  Ox XChem is a two year project to enable the tools and culture needed for hit-to-lead in FBDD. Utilising the world leading X-ray fragment screening facility at Diamond (XChem) - Ox XChem aims to build three core areas. Computational tools to design follow-up compounds. Chemistry resource to make such compounds. Assays to provide rapid feedback from those compounds.
+compchem: A computational chemistry resource @ Harwell for non-expert users will be available in Spring this year. Tools for selecting hits to follow-up on, enumerating and then scoring chemical libraries will be available. A core focus is integrating a wide-range of academic and commercial tools and working closely with pharma to create a national resource for computational chemistry.
+synchem: Synthetic chemistry capabilities will be developed. A fragment library that is designed for follow-up chemistry is being developed. High throughput synthesis methods will be explored. A culture of engaging chemists with designing follow-up compounds will be developed.
 ---
-
 <section id="banner" class="style2">
-  <div class="inner">
-  <span class="image">
-  <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
-</span>
-  <header class="major">
-
-# Landing
-
-</header>
-  <div class="content">
-
-{{ page.description }}
-
-</div>
-</div>
+   <div class="inner">
+      <span class="image">
+      <img src="assets/images/banner.jpg" alt="">
+      </span>
+      <header class="major">
+         <h1>{{ page.description }}</h1>
+      </header>
+   </div>
 </section>
-
-<div id="main">
-  <section id="one">
-  <div class="inner"><header class="major">
-
-## Sed amet aliquam
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
-
-</div>
-  <p></p>
-</section>
-  <p>
-</p>
-  <section id="two" class="spotlights">
-  <section><a href="generic.html">
-  <img src="assets/images/pic08.jpg" alt="" data-position="center center">
-</a>{:.image}
-
-<div class="content">
-  <div class="inner"><header class="major">
-
-### Orci maecenas
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em></em>
-  <section>
-  <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{:.image}
-
-</em>
-  <div class="content">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-### Rhoncus magna
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-</em>   <a href="generic.html">Learn more</a>{:.button}
-
-</div>
-</div>
-</section>
-  <section><a href="generic.html">
-  <img src="assets/images/pic10.jpg" alt="" data-position="25% 25%">
-</a>{:.image}
-
-<div class="content">
-  <div class="inner"><header class="major">
-
-### Sed nunc ligula
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em><p></p></em>
-</section>
-  <em>
-  <p></p>
-</em>
-  <section id="three">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-## Massa libero
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
-
-</em>   <a href="generic.html">Get Started</a>{:.button .next}
-
-</div>
-</section>
-  <p>
-</p>
+   <div id="main">
+   <div class="inner">
+      <header class="major">
+         <h1>Overview</h1>
+      </header>
+      {{ page.overview }}
+   </div>
+   <p></p>
+   <section id="two" class="spotlights">
+   <div class="inner">
+      <header class="major">
+         <h3>Computational Chemistry</h3>
+      </header>
+      {{ page.compchem }}
+      <img src="assets/images/banner.jpg" alt="">
+   </div>
+   <div class="inner">
+      <header class="major">
+         <h3>Synthetic Chemistry</h3>
+      </header>
+      {{ page.synchem }}
+      <img src="assets/images/comp-chem.jpg" alt="" >
+   </div>
+   </section>
 </div>
