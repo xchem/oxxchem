@@ -3,7 +3,7 @@ layout: home
 title: Ox XChem
 description: Enabling hit-to-lead in FBDD
 landing-title: 'Ox XChem - enabling hit-to-lead in FBDD'
-description: null
+description: Enabling hit-to-lead in FBDD
 image:  assets/images/oxxchem.png
 ---
 

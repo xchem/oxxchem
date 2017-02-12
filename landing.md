@@ -1,7 +1,7 @@
 ---
 title: Compound Acquisition
 layout: post
-description: Efficient compounds acquisition
+description: Efficient compound acquisition
 image: assets/images/syn-chem.png
 nav-menu: true
 ---
