@@ -1,7 +1,7 @@
 ---
-title: Synthetic Chemistry
+title: Compound Acquisition
 layout: post
-description: Efficient synthetic chemistry
+description: Efficient compounds acquisition
 image: assets/images/syn-chem.png
 nav-menu: true
 ---
