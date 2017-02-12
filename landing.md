@@ -32,14 +32,14 @@ synchem: Synthetic chemistry capabilities will be developed. A fragment library 
          <h3>Computational Chemistry</h3>
       </header>
       {{ page.compchem }}
-      <img src="assets/images/banner.jpg" alt="">
+      <img src="assets/images/comp-chem.png" alt="">
    </div>
    <div class="inner">
       <header class="major">
          <h3>Synthetic Chemistry</h3>
       </header>
       {{ page.synchem }}
-      <img src="assets/images/comp-chem.jpg" alt="" >
+      <img src="assets/images/syn-chem.png" alt="" >
    </div>
    </section>
 </div>
