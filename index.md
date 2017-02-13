@@ -4,7 +4,7 @@ title: Ox XChem
 description: Enabling hit-to-lead in FBDD
 landing-title: 'Ox XChem - enabling hit-to-lead in FBDD'
 description: Enabling hit-to-lead in FBDD
-image:  assets/images/oxxchem.png
+image:  assets/images/banner.jpg
 ---
 
 Ox XChem is a two year project to enable the tools and culture needed for hit-to-lead in FBDD.
