@@ -6,4 +6,4 @@ image: assets/images/syn-chem.png
 nav-menu: true
 ---
 
-Synthetic chemistry capabilities will be developed. A fragment library that is designed for follow-up chemistry is being developed. High throughput synthesis methods will be explored. A culture of engaging chemists with designing follow-up compounds will be developed.
+Synthetic chemistry capabilities will be developed. A diverse fragment library is currently built each of them offering the possibility for further diversification. High Throughput methods for synthesis/characterisation are being explored. A culture of engaging chemists with designing follow-up compounds will be developed.
