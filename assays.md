@@ -11,7 +11,7 @@ We have established a series of targets from across academia and are focussing o
 2. Dementia / Alzheimers
 3. Cancer
 
-These will be screened by XChem and 
+These will be screened by XChem and followed up on as part of Ox XChem
 
 Currently the targets developed and screened / being screend by Ox XChem are:
 
