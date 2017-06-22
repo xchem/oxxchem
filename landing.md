@@ -2,7 +2,7 @@
 title: Chemistry
 layout: post
 description: Improved follow-up chemistry
-image: assets/images/syn-chem.png
+image: assets/images/chem.jpg
 nav-menu: true
 ---
 
