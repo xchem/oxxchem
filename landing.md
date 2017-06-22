@@ -14,7 +14,7 @@ There is a need for greater throughput in follow-up chemistry and more tractable
 
 We hope to extend this to further groups.
 
-** If you are a chemist - interested in contributing compounds to screen or synthesising follow-ups - please get in touch.**
+**If you are a chemist - interested in contributing compounds to screen or synthesising follow-ups - please get in touch.**
 
 [//]: <> (Include a link to the OxXChem library here.)
 

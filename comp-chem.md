@@ -12,4 +12,4 @@ A core focus is integrating a wide-range of academic and commercial tools and wo
 2. Collaborarions with software providers [DesertSci](http://www.desertsci.com/products/proasis4/) and [InformaticsMatters](https://squonk.it/) to provide cutting edge softwarefor Diamond users 
 3. Working with academics, pharma CADD groups and industrial software providers to establish best practice and then build tools that extend it through [CCP CompMedChem](https://ccp-cmc.github.io/)
 
-** If you're a computational scientist interested in contributing tools to the ecosystem we're generating - please get in touch. **
+**If you're a computational scientist interested in contributing tools to the ecosystem we're generating - please get in touch.**
