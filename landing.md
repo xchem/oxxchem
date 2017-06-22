@@ -12,7 +12,9 @@ There is a need for greater throughput in follow-up chemistry and more tractable
 2. A chemistry facility in the Research Complex at Harwell (RCaH) 
 3. Collaborations with UK and Chinese academics to produce follow up chemistry
 
-We hope to extend this to further groups. So if you are a chemist - interested in contributing compounds to screen or synthesising follow-ups - please get in touch.
+We hope to extend this to further groups.
+
+** If you are a chemist - interested in contributing compounds to screen or synthesising follow-ups - please get in touch.**
 
 [//]: <> (Include a link to the OxXChem library here.)
 
