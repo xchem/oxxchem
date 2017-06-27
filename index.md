@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Ox XChem
-description: Enabling hit-to-lead in FBDD
-landing-title: 'Ox XChem - enabling hit-to-lead in FBDD'
-description: Enabling hit-to-lead in FBDD
+landing-title: 'Ox XChem - assisting hit-to-lead in FBDD'
+description: Assisting hit-to-lead in FBDD
 image:  assets/images/banner.jpg
 ---
 
