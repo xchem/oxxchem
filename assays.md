@@ -11,9 +11,12 @@ We have established a series of targets from across academia and are focussing o
 2. Dementia / Alzheimers
 3. Cancer
 
-These will be screened by XChem and followed up on as part of Ox XChem
+These will be screened by XChem and followed up on as part of Ox XChem. Progress so far below.
 
-Binding and activity assays are needed to experimentally confirm the compounds synthesie bind and design the next round of SAR.
+![alt text](assets/images/chart.png "Progress so far.")
+
+
+Binding and activity assays are needed to experimentally confirm the compounds synthesise bind and design the next round of SAR.
 In this domain Ox XChem is developing collaborations with external groups to perform the required assays.
 
 **If you're an assay group (e.g. SPR, NMR, AlphaScreen) and interested in working with us - please get in touch.**
