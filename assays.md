@@ -10,6 +10,7 @@ We have established a series of targets from across academia and are focussing o
 1. Anti-microbial resistance
 2. Dementia / Alzheimers
 3. Cancer
+4. Infectious diseases
 
 These will be screened by XChem and followed up on as part of Ox XChem. Progress so far below.
 
