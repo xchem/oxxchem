@@ -6,7 +6,7 @@ image: assets/images/assays.jpg
 nav-menu: true
 ---
 
-We have established a series of targets from across academia and are focussing on 8 targets from the following disease areas:
+We have established a series of targets from across academia and are focussing on 13 targets from the following disease areas:
 1. Anti-microbial resistance
 2. Dementia / Alzheimers
 3. Cancer
