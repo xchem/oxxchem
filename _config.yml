@@ -3,7 +3,7 @@ title: Ox XChem
 subtitle: assisting hit-to-lead in FBDD
 email: anthony.bradley@chem.ox.ac.uk
 description: Offering computational and chemistry resource and assistance for hit-to-lead in fragment-based drug design.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/oxxchem" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Anthony Bradley
 
